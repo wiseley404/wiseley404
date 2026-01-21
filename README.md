@@ -23,7 +23,7 @@ A comprehensive club management platform featuring meeting scheduling, role assi
 
 [Live Demo](https://toastmastersfsa-app-production.up.railway.app) • [Repository](https://github.com/wiseley404/ToastmastersFSA-app)
 
-
+---
 
 ### [HeatMyFloor](https://github.com/wiseley404/A25-IFT-GLO-Equipe23-HeatMyFloor-Projet)
 **Java • Swing**
@@ -33,7 +33,7 @@ Features irregular room shapes, furniture placement with obstacle avoidance, and
 
 [Repository](https://github.com/wiseley404/A25-IFT-GLO-Equipe23-HeatMyFloor-Projet)
 
-
+---
 
 ### [Banking Software](https://github.com/wiseley404/Bank-software)
 **C++ • Qt • NetBeans**
