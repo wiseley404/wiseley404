@@ -35,13 +35,13 @@ Features irregular room shapes, furniture placement with obstacle avoidance, and
 
 ---
 
-### [Banking Software](https://github.com/wiseley404/Bank-software)
+### [Banking Software](https://github.com/wiseley404/Bank-software-QT)
 **C++ • Qt • NetBeans**
 
 Minimalist banking system with deposit/withdrawal operations, automatic interest calculation, and bank statement generation. 
 Built with Qt GUI and comprehensive unit testing.
 
-[Repository](https://github.com/wiseley404/Bank-software)
+[Repository](https://github.com/wiseley404/Bank-software-QT)
 
 
 ## What I'm Working On Now
