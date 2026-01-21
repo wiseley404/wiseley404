@@ -16,10 +16,10 @@ I love solving real-world problems through clean code and innovative solutions.
 
 ## Featured Projects
 
-### [ToastmastersFSA-ULaval](https://github.com/wiseley404/ToastmastersFSA-app)
+### [Toastmasters-App](https://github.com/wiseley404/ToastmastersFSA-app)
 **Django • PostgreSQL • Celery • Redis • JavaScript • HTML • CSS • Docker**
 
-A comprehensive club management platform featuring meeting scheduling, role assignments, speech evaluations, email automation, and analytics dashboards. Deployed on Railway with Docker containerization.
+A comprehensive club management platform featuring meeting scheduling, role assignments, speech evaluations, progress tracking, email automation, certificates and meetings agendas's pdf generator and analytics dashboards. Deployed on Railway with Docker containerization.
 
 [Live Demo](https://toastmastersfsa-app-production.up.railway.app) • [Repository](https://github.com/wiseley404/ToastmastersFSA-app)
 
