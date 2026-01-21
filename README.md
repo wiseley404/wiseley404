@@ -3,7 +3,8 @@
 I'm a passionate **Software Developer** and **Computer Science student** at Université Laval who builds robust, scalable applications across web and desktop platforms. 
 I love solving real-world problems through clean code and innovative solutions.
 
-## 🚀 What I Do
+
+## What I Do
 
 - **Full-Stack Web Development** – Building responsive, feature-rich web applications with Django, Vue.js, Node.js, and modern JavaScript frameworks
 - **Desktop Applications** – Creating intuitive desktop software with Java Swing, Qt, and C++ for complex problem-solving
@@ -12,18 +13,19 @@ I love solving real-world problems through clean code and innovative solutions.
 - **IoT & Embedded Systems** – Developing connected smart systems with real-time web dashboards for monitoring and control
 - **Network Programming** – Building network protocols and client-server applications with Python socket programming (SMTP server implementation)
 
-## 💼 Featured Projects
 
-### 🍽️ [ToastmastersFSA-ULaval](https://github.com/wiseley404/ToastmastersFSA-app)
+## Featured Projects
+
+### [ToastmastersFSA-ULaval](https://github.com/wiseley404/ToastmastersFSA-app)
 **Django • PostgreSQL • Celery • Redis • JavaScript • HTML • CSS • Docker**
 
 A comprehensive club management platform featuring meeting scheduling, role assignments, speech evaluations, email automation, and analytics dashboards. Deployed on Railway with Docker containerization.
 
 [Live Demo](https://toastmastersfsa-app-production.up.railway.app) • [Repository](https://github.com/wiseley404/ToastmastersFSA-app)
 
----
 
-### 🔥 [HeatMyFloor](https://github.com/wiseley404/A25-IFT-GLO-Equipe23-HeatMyFloor-Projet)
+
+### [HeatMyFloor](https://github.com/wiseley404/A25-IFT-GLO-Equipe23-HeatMyFloor-Projet)
 **Java • Swing**
 
 Heated floor design application with automated wire path generation using constraint-based algorithms. 
@@ -31,9 +33,9 @@ Features irregular room shapes, furniture placement with obstacle avoidance, and
 
 [Repository](https://github.com/wiseley404/A25-IFT-GLO-Equipe23-HeatMyFloor-Projet)
 
----
 
-### 🏦 [Banking Software](https://github.com/wiseley404/Bank-software)
+
+### [Banking Software](https://github.com/wiseley404/Bank-software)
 **C++ • Qt • NetBeans**
 
 Minimalist banking system with deposit/withdrawal operations, automatic interest calculation, and bank statement generation. 
@@ -41,18 +43,8 @@ Built with Qt GUI and comprehensive unit testing.
 
 [Repository](https://github.com/wiseley404/Bank-software)
 
----
 
-## 📚 Other Notable Projects
-
-### 📧 Internal SMTP Email Server
-**Python • Socket Programming • SMTP Protocol**
-
-Custom email server for internal communication using Python's socket library. 
-Handles SMTP commands, multi-client connections, and email routing with @domain addressing.
-
-
-## 🔨 What I'm Working On Now
+## What I'm Working On Now
 
 ### 🍔 UFood - Restaurant Discovery & Social Sharing
 **Vue.js • Node.js • Express • MongoDB • Socket.io • Passport.js**
@@ -84,7 +76,17 @@ automated build processes, dependency management, comprehensive testing strategi
 
 ---
 
-## 🛠️ Tech Stack
+
+## Other Notable Projects
+
+### 📧 Internal SMTP Email Server
+**Python • Socket Programming • SMTP Protocol**
+
+Custom email server for internal communication using Python's socket library. 
+Handles SMTP commands, multi-client connections, and email routing with @domain addressing.
+
+
+## Tech Stack
 
 **Languages:** Python, Java, C++, JavaScript, SQL, HTML5, CSS3
 
@@ -100,7 +102,8 @@ automated build processes, dependency management, comprehensive testing strategi
 
 **Other:** Passport.js (Auth), Chart.js, WebSockets
 
-## 🎓 Education
+
+## Education
 
 **Bachelor of Software Engineering**  
 Université Laval, Quebec City, QC  
@@ -116,7 +119,8 @@ Université Laval, Quebec City, QC
 - Database Systems
 - Design Project
 
-## 🏆 Key Skills
+
+## Key Skills
 
 - Full-stack web development (Django, Vue.js, Node.js)
 - Object-oriented design patterns 
@@ -127,20 +131,17 @@ Université Laval, Quebec City, QC
 - Team collaboration (Git, GitHub)
 - Problem-solving and algorithmic thinking
 
-## 📫 Let's Connect
 
-🌐 **Portfolio:** [https://wiseley404.github.io/portfolio]
-📧 **Email:** [mailto:enzerpaul@gmail.com]
-💼 **LinkedIn:** [https://linkedin.com/in/petitonWiseley]
-🐙 **GitHub:** [https://github.com/wiseley404]
+## Let's Connect
 
----
-
-💡 *""*
+🌐 **Portfolio:** [My-portfolio](https://wiseley404.github.io/portfolio)
+📧 **Email:** [My-email](mailto:wppet@ulaval.ca)
+💼 **LinkedIn:** [My-linkedin](https://linkedin.com/in/petitonWiseley)
+🐙 **GitHub:** [My-github](https://github.com/wiseley404)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Wiseley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseley404&show_icons=true&theme=tokyonight)
 
