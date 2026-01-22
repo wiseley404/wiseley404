@@ -114,22 +114,22 @@ Université Laval, Quebec City
 
 **Core Coursework & Concepts:**
 
-**Object-Oriented Programming (IFT-2007/GLO-2004) — Java**  
+**Object-Oriented Programming (IFT-2007/GLO-2004) - Java**  
 **SOLID+T principles**, design patterns (Factory, Observer, Strategy, Decorator), **Larman's Controller pattern**, UML modeling, inheritance vs composition, polymorphism, and building maintainable class hierarchures.
 
-**Software Engineering Processes (GLO-2003) — Java, CI/CD**  
+**Software Engineering Processes (GLO-2003) - Java, CI/CD**  
 **Test-Driven Development (TDD)**, **clean code principles**, continuous integration/deployment, automated testing, **DevOps workflows**, refactoring strategies, and Agile methodologies.
 
-**Web Application Development (GLO-3102) — JavaScript, TypeScript, Node.js**  
+**Web Application Development (GLO-3102) - JavaScript, TypeScript, Node.js**  
 **MVC architecture**, Vue.js/Next.js frameworks, **ES6+ features**, RESTful APIs, **MongoDB with Mongoose**, **Socket.io** for real-time communication, **Passport.js** authentication, Express.js middleware, and modern frontend tooling.
 
-**Advanced C++ Programming(GIF-1003) — C++**  
+**Advanced C++ Programming(GIF-1003) - C++**  
 **Encapsulation**, **polymorphism**, inheritance, memory management (pointers, references, RAII), template programming, STL containers, and building robust desktop applications with Qt.
 
-**Web Programming with Python [Harvard CS50W](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) — Python, Django, JavaScript, SQL**  
+**Web Programming with Python [Harvard CS50W](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) - Python, Django, JavaScript, SQL**  
 Django **MVT pattern**, PostgreSQL database design, JavaScript DOM manipulation, asynchronous JavaScript, SQL queries and optimization, and deploying web applications.
 
-**Introduction to Programming with Python [Harvard CS50P](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) — Python**  
+**Introduction to Programming with Python [Harvard CS50P](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) - Python**  
 Core programming fundamentals, functions, conditionals, loops, data structures (lists, dictionaries, sets), file I/O, error handling, libraries, unit testing with pytest, and object-oriented programming basics.
 
 **Upcoming:** Data Structures & Algorithms, Database Systems Design
