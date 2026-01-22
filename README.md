@@ -123,7 +123,7 @@ Université Laval, Quebec City
 **Web Application Development (GLO-3102) — JavaScript, TypeScript, Node.js**  
 **MVC architecture**, Vue.js/Next.js frameworks, **ES6+ features**, RESTful APIs, **MongoDB with Mongoose**, **Socket.io** for real-time communication, **Passport.js** authentication, Express.js middleware, and modern frontend tooling.
 
-**Advanced C++ Programming — C++**  
+**Advanced C++ Programming(GIF-1003) — C++**  
 **Encapsulation**, **polymorphism**, inheritance, memory management (pointers, references, RAII), template programming, STL containers, and building robust desktop applications with Qt.
 
 **Web Programming with Python [Harvard CS50W](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) — Python, Django, JavaScript, SQL**  
